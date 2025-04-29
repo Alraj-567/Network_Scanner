@@ -20,17 +20,15 @@ A simple yet powerful Python tool that scans your local network using ARP reques
 - Python 3.x
 - Scapy library  
   Install it using:
-  ```bash
+ 
   pip install scapy
 
 🚀 Usage
 Clone the repository:
 
-bash
-Copy
-Edit
+
 git clone https://github.com/yourusername/network-scanner.git
-cd network-scanner
+cd Network-Scanner
 Run the script with sudo:
 
 
